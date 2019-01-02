@@ -1,0 +1,18 @@
+.ImageBox {
+    width: 350px;
+
+    margin: 1rem auto;
+    padding: 1rem;
+
+    background:rgb(249, 245, 228) ;
+    border: 1px solid rgb(249, 245, 228);
+    box-shadow: 0 5px 5px grey;
+}
+
+.ImageBox__Image {
+    margin: 1rem auto;
+}
+
+.ImageBox__Buttons {
+    margin: 0 auto;
+}
